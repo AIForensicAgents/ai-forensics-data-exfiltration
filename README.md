@@ -1,3 +1,5 @@
+![Cover Image](assets/cover-image.png)
+
 <!-- Open Graph Meta Description: AI Forensics Data Exfiltration - A comprehensive risk analysis, forensic investigation framework, and mitigation guide for autonomous recursive AI agents capable of systematically harvesting, correlating, and exfiltrating sensitive personal, corporate, and government data across interconnected systems. Maintained by AI Forensic Agents. -->
 
 <div align="center">
